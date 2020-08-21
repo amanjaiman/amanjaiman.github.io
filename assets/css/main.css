@@ -3239,3 +3239,14 @@ input, select, textarea {
 			}
 
 	}
+
+.nav {
+	font-size: 1.25em;
+	color: white;
+	margin: 0 0 0 0;
+	font-style: italic;
+}
+
+.nav:hover {
+	color: #49bf9d
+}
