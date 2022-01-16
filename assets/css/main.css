@@ -25,6 +25,10 @@ h3.hover:hover {
 	color: #787878;
 }
 
+a.hover {
+	color: #ffffff;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2613,7 +2617,7 @@ input, select, textarea {
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
 		/*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
-		background-image: url("images/overlay.png"), url("../../images/capri.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg2.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
